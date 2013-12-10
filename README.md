@@ -1,4 +1,0 @@
-pando
-=====
-
-Economic Experiment System
